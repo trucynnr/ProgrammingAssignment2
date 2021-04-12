@@ -2,7 +2,7 @@
 ## functions do
 
 ##This is a script focused on the function makeCacheMatrix
-##makeCachematrix consists of set,get,setInverse, getInverse
+##makeCachematrix consists of set,get,setInverse, getInverse, list
 
 makeCacheMatrix <- function(x = matrix()){
   inv <- NULL             ##initializing inverse as NULL
